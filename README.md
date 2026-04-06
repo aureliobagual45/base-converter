@@ -1,6 +1,12 @@
 # BASE CONVERTER
 
-This was my first code, so the structure is not very optimized and there is a lot of repetition in the functions.
+This was my first project in C.
+
+The program converts numbers between bases 2, 8, 10 and 16.
+
+All conversions were implemented manually, without using built-in functions for base conversion.
+
+As it was my first code, the structure is not very optimized and there is a lot of repetition in the functions.
 
 The main goal of this project was to understand the logic behind base conversion and practice low-level problem solving.
 
